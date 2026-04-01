@@ -1,5 +1,5 @@
 <!-- & This creates a banner for the ReadMe -->
-<img src="img/cherry-blossom-maiden-among-the-cherry-blossom-branches.png" alt="" width="100%" height="300">
+<img src="img/cherry-blossom-maiden-among-the-cherry-blossom-branches.png" alt="" width="100%" height="350">
 
 # <p align="center">🌸 Arrays: JavaScript's Organized Collector 🌸</p>
 
